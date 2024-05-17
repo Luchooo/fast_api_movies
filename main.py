@@ -39,7 +39,7 @@ def message():
         </head>
         <body>
             <h1>Welcome to the FastAPI Movies Page!</h1>
-            <p>Click the button below to test the API:</p>
+            <p>Click the button below to test the API</p>
             <form action="/docs">
                 <input type="submit" class="button" value="Test API">
             </form>
